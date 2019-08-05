@@ -14,9 +14,9 @@ ___
 - [ ] Translate terminal cmds from database
 - [ ] Translate achievements from database
 - [ ] Translate map blip name
-- [ ] Add better notifications
-- [X] To be filled
-- [X] To be filled
+- [X] Added better notifications (Only base plugin)
+- [X] Added FireDepartment (Only base plugin)
+- [X] Added Better Notifications when press UP on phone to show your phone number! (Testing out bNotif)
 - [X] To be filled
 - [X] To be filled
 - [X] To be filled
