@@ -30,7 +30,7 @@ ___
 
 | <a href="https://untamedhero.com/" target="_blank">**Cubix**</a> | <a href="https://untamedhero.com/AlexJoker13" target="_blank">**iSAlexHere**</a> | <a href="https://untamedhero.com/" target="_blank">**Vali Zum**</a> |
 | :---: |:---:| :---:|
-| [![UNTAMEDHero](https://avatars1.githubusercontent.com/u/14930068?v=4&s=200)](https://forum.untamedhero.com)    | [![UNTAMEDHero](https://avatars1.githubusercontent.com/u/27588116?v=4&s=200)](https://forum.untamedhero.com) | [![UNTAMEDHero](https://avatars1.githubusercontent.com/u/14930068?v=4&s=200)](https://forum.untamedhero.com)  |
+| [![UNTAMEDHero](https://avatars1.githubusercontent.com/u/14930068?s=200&v=3)](https://forum.untamedhero.com)    | [![UNTAMEDHero](https://avatars1.githubusercontent.com/u/27588116?s=200v=3)](https://forum.untamedhero.com) | [![UNTAMEDHero](https://avatars1.githubusercontent.com/u/14930068?s=200v=3)](https://forum.untamedhero.com)  |
 | <a href="https://github.com/UNTAMEDHero/UNTAMEDHero" target="_blank">`github.com/UNTAMEDHero`</a> | <a href="http://github.com/UNTAMEDHero" target="_blank">`github.com/UNTAMEDHero`</a> | <a href="http://github.com/UNTAMEDHero" target="_blank">`github.com/UNTAMEDHero`</a> |
 
 
