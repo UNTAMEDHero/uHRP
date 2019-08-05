@@ -14,6 +14,7 @@ ___
 - [ ] Translate terminal cmds from database
 - [ ] Translate achievements from database
 - [ ] Translate map blip name
+- [] Add better notifications
 - [X] To be filled
 - [X] To be filled
 - [X] To be filled
