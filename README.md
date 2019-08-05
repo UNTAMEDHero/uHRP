@@ -15,3 +15,26 @@ ___
 | :---: |:---:| :---:|
 | [![UNTAMEDHero](https://avatars1.githubusercontent.com/u/14930068?v=3&s=200)](https://forum.untamedhero.com)    | [![UNTAMEDHero](https://avatars1.githubusercontent.com/u/14930068?v=3&s=200)](https://forum.untamedhero.com) | [![UNTAMEDHero](https://avatars1.githubusercontent.com/u/14930068?v=3&s=200)](https://forum.untamedhero.com)  |
 | <a href="https://github.com/UNTAMEDHero/UNTAMEDHero" target="_blank">`github.com/UNTAMEDHero`</a> | <a href="http://github.com/UNTAMEDHero" target="_blank">`github.com/UNTAMEDHero`</a> | <a href="http://github.com/UNTAMEDHero" target="_blank">`github.com/UNTAMEDHero`</a> |
+
+
+## Gamemode preview
+
+
+***Landing page***
+[![LANDING](https://imgur.com/ioKvFY4)](https://forum.untamedhero.com/)
+***LOGIN***
+[![LOGIN](https://i.imgur.com/pLlBK7A.png)](https://forum.untamedhero.com/)
+***Register***
+[![REGISTER](https://i.imgur.com/HDg2Qw5.png)](https://forum.untamedhero.com/)
+***Characters list***
+[![Characters](https://i.imgur.com/VJQo1Hy.png)](https://forum.untamedhero.com/)
+***Character creator***
+[![Character Creator](https://i.imgur.com/6IWVZFc.png)](https://forum.untamedhero.com/)
+***Inventory***
+[![Inventory](https://i.imgur.com/Y9wmuuy.png)](https://forum.untamedhero.com/)
+***Main Menu*** 
+[![Main Menu](https://i.imgur.com/JCpvONR.png)](https://forum.untamedhero.com/)
+***Key Mapping***
+[![Key mapping](https://i.imgur.com/jnTpZ9z.png)](https://forum.untamedhero.com/)
+***Tips***
+[![Tips](https://i.imgur.com/okocJ9t.png)](https://forum.untamedhero.com/)
