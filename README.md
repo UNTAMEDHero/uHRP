@@ -9,6 +9,24 @@ ___
 [![Join us on Discord](https://discordapp.com/api/guilds/542217413274370070/widget.png?style=banner4)](https://discord.gg/khpRnAZ
 )
 
+## TO DO LIST
+- [ ] Change inventory size when you buy new clothes
+- [ ] Translate terminal cmds from database
+- [ ] Translate achievements from database
+- [ ] Translate map blip name
+- [X] To be filled
+- [X] To be filled
+- [X] To be filled
+- [X] To be filled
+- [X] To be filled
+- [X] To be filled
+- [X] To be filled
+- [X] To be filled
+- [X] To be filled
+- [X] To be filled
+
+
+
 ## Team
 
 | <a href="https://untamedhero.com/" target="_blank">**Cubix**</a> | <a href="https://untamedhero.com/" target="_blank">**iSAlexHere**</a> | <a href="https://untamedhero.com/" target="_blank">**Vali Zum**</a> |
