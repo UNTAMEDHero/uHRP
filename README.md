@@ -25,8 +25,6 @@ ___
 - [X] To be filled
 - [X] To be filled
 
-
-
 ## Team
 
 | <a href="https://untamedhero.com/" target="_blank">**Cubix**</a> | <a href="https://untamedhero.com/" target="_blank">**iSAlexHere**</a> | <a href="https://untamedhero.com/" target="_blank">**Vali Zum**</a> |
