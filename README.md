@@ -12,6 +12,7 @@ ___
 ## TO DO LIST
 - [ ] Change inventory size when you buy new clothes
 - [ ] Translate terminal cmds from database
+- [ ] Putting jail uniform when in jail
 - [X] Translate achievements from database
 - [X] Translate map blip name
 - [X] Added better notifications (Only base plugin)
@@ -19,7 +20,6 @@ ___
 - [X] Added Better Notifications when press UP on phone to show your phone number! (Testing out bNotif)
 - [X] Added i18n translations system
 - [X] Work in progress to make this source multilingual!
-- [X] To be filled
 - [X] To be filled
 - [X] To be filled
 - [X] To be filled
